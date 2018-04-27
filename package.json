@@ -13,5 +13,8 @@
   "dependencies": {
     "aws-serverless-express": "^3.2.0",
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "claudia": "^4.0.0"
   }
 }
