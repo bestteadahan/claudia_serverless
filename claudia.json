@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "serverless-executor",
+    "name": "serverless",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "1j2y2koaoh"
+  }
+}
