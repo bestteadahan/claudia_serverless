@@ -16,6 +16,6 @@
     "express": "^4.16.3"
   },
   "devDependencies": {
-    "claudia": "^4.0.0"
+    "claudia": "^5.14.1"
   }
 }
